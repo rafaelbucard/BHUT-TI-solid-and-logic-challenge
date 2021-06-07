@@ -17,7 +17,7 @@ if($numberDao){
         <table class="table bg-light text-dark table-responsive mt-3">
             <thead>
                 <tr>
-                    <th><h2>ID</h2></th>
+                    <th><h2>Número</h2></th>
                 </tr>
             </thead>
             <tbody >
