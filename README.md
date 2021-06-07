@@ -18,4 +18,4 @@ Se o número vor multiplo de 3 e 5 "BHUT TI".
 
 obs: Foi utilizado apenas uma condicional if sem utilização de else e operador ternário 
 
-Ferramentas: PHP 7.4+, Flexbox com Bootstam CDN. 
+Ferramentas: PHP 7.4+, Flexbox com Bootstrap CDN. 
