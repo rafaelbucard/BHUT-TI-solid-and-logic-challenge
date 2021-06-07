@@ -3,7 +3,7 @@
 ## Rafael Pereita Buçard
 
 
-Teste Feito em PHP para seguindo os princípios SOLID com o objetivo de exibir na tela de 1 até 100.
+Teste Feito em PHP seguindo os princípios SOLID com o objetivo de exibir na tela de 1 até 100.
 
 Números multiplos de 3 são substituidos "BHUT", números multiplos de 5 por "IT".
 
